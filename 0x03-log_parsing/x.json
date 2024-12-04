@@ -1,0 +1,56 @@
+[
+	{
+		"status code": 500,
+		"file size": 660,
+		"where": "0",
+		"len": 2
+	},
+	{
+		"status code": 405,
+		"file size": 320,
+		"where": "4",
+		"len": 4
+	},
+	{
+		"status code": 404,
+		"file size": 579,
+		"where": "4",
+		"len": 8
+	},
+	{
+		"status code": 403,
+		"file size": 485,
+		"where": "4",
+		"len": 7
+	},
+	{
+		"status code": 401,
+		"file size": 390,
+		"where": "4",
+		"len": 3
+	},
+	{
+		"status code": 400,
+		"file size": 52,
+		"where": "4",
+		"len": 5
+	},
+	{
+		"status code": 301,
+		"file size": 490,
+		"where": "4",
+		"len": 6
+	},
+	{
+		"status code": 200,
+		"file size": 931,
+		"where": "1",
+		"len": 0
+	},
+	{
+		"status code": 401,
+		"file size": 959,
+		"where": "0",
+		"len": 1
+	}
+]
